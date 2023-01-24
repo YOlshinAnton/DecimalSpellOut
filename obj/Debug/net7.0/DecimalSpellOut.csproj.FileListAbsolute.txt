@@ -1,0 +1,15 @@
+/Users/yolshinanton/Documents/GitHub/DecimalSpellOut/bin/Debug/net7.0/DecimalSpellOut
+/Users/yolshinanton/Documents/GitHub/DecimalSpellOut/bin/Debug/net7.0/DecimalSpellOut.deps.json
+/Users/yolshinanton/Documents/GitHub/DecimalSpellOut/bin/Debug/net7.0/DecimalSpellOut.runtimeconfig.json
+/Users/yolshinanton/Documents/GitHub/DecimalSpellOut/bin/Debug/net7.0/DecimalSpellOut.dll
+/Users/yolshinanton/Documents/GitHub/DecimalSpellOut/bin/Debug/net7.0/DecimalSpellOut.pdb
+/Users/yolshinanton/Documents/GitHub/DecimalSpellOut/obj/Debug/net7.0/DecimalSpellOut.csproj.AssemblyReference.cache
+/Users/yolshinanton/Documents/GitHub/DecimalSpellOut/obj/Debug/net7.0/DecimalSpellOut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yolshinanton/Documents/GitHub/DecimalSpellOut/obj/Debug/net7.0/DecimalSpellOut.AssemblyInfoInputs.cache
+/Users/yolshinanton/Documents/GitHub/DecimalSpellOut/obj/Debug/net7.0/DecimalSpellOut.AssemblyInfo.cs
+/Users/yolshinanton/Documents/GitHub/DecimalSpellOut/obj/Debug/net7.0/DecimalSpellOut.csproj.CoreCompileInputs.cache
+/Users/yolshinanton/Documents/GitHub/DecimalSpellOut/obj/Debug/net7.0/DecimalSpellOut.dll
+/Users/yolshinanton/Documents/GitHub/DecimalSpellOut/obj/Debug/net7.0/refint/DecimalSpellOut.dll
+/Users/yolshinanton/Documents/GitHub/DecimalSpellOut/obj/Debug/net7.0/DecimalSpellOut.pdb
+/Users/yolshinanton/Documents/GitHub/DecimalSpellOut/obj/Debug/net7.0/DecimalSpellOut.genruntimeconfig.cache
+/Users/yolshinanton/Documents/GitHub/DecimalSpellOut/obj/Debug/net7.0/ref/DecimalSpellOut.dll
