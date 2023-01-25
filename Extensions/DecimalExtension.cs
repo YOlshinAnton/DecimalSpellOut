@@ -42,19 +42,16 @@ namespace DecimalSpellOut.DecimalExtension
             }
 
             // spell out kop
-            if (kop > 0) 
-            {
-                sb.Append(' ');
-                sb.Append(kop.ToString("D2"));
-                sb.Append(' ');
-                sb.Append((kop % 20) switch {
-                    1 => "копейка",
-                    2 => "копейки",
-                    3 => "копейки",
-                    4 => "копейки",
-                    _ => "копеек"
-                });
-            }
+            sb.Append(' ');
+            sb.Append(kop.ToString("D2"));
+            sb.Append(' ');
+            sb.Append((kop % 20) switch {
+                1 => "копейка",
+                2 => "копейки",
+                3 => "копейки",
+                4 => "копейки",
+                _ => "копеек"
+            });
             
             return sb.ToString();
         }
