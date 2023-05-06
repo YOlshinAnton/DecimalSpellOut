@@ -20,7 +20,7 @@ namespace DecimalSpellOut.DecimalExtension
             // spell out rub
             if (rub >= 0) 
             {
-                sb.Append((rub % 20) switch {
+                sb.Append((rub % 100 <= 20 ? rub % 20 : rub % 10) switch {
                     1 => "рубль",
                     2 => "рубля",
                     3 => "рубля",
@@ -45,7 +45,7 @@ namespace DecimalSpellOut.DecimalExtension
             sb.Append(' ');
             sb.Append(kop.ToString("D2"));
             sb.Append(' ');
-            sb.Append((kop % 20) switch {
+            sb.Append((kop % 100 <= 20 kop % 20 : kop % 10) switch {
                 1 => "копейка",
                 2 => "копейки",
                 3 => "копейки",
